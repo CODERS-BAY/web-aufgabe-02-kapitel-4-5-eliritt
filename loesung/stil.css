@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin:1.2rem;
+}
+
+body h1 {text-align:center;}
+
+nav {
+    background-color:#800000;
+    color: white
+}
+
+footer {
+    background-color: grey;
+    color: white;
+    padding: 1.2rem;
+}
+
+nav ul {
+    list-style:none;
+    display:flex;
+    margin:0;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    padding: 1.2rem;
+}
+
+summary {font-weight: bold;}
+
+.zitat {
+    background-color: lightblue;
+    font-style: italic;
+    text-align: center;
+    padding: 0.8rem;
+}
+
+img {
+    max-width: 100%;
+    height:auto;
+}
+
+dt {font-weight:bold;}
